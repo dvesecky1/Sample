@@ -7721,10 +7721,6 @@ CAEMP25N-500,46060,"Tucson, AZ (Metropolitan Statistical Area)",2019,Number of j
 CAEMP25N-500,46060,"Tucson, AZ (Metropolitan Statistical Area)",2020,Number of jobs,0,29489,
 CAEMP25N-500,46060,"Tucson, AZ (Metropolitan Statistical Area)",2021,Number of jobs,0,29603,
 CAEMP25N-500,46060,"Tucson, AZ (Metropolitan Statistical Area)",2022,Number of jobs,0,30132,
-CAEMP25N-500,46140,"Tulsa, OK (Metropolitan Statistical Area)",2019,Number of jobs,0,53074,
-CAEMP25N-500,46140,"Tulsa, OK (Metropolitan Statistical Area)",2020,Number of jobs,0,48544,
-CAEMP25N-500,46140,"Tulsa, OK (Metropolitan Statistical Area)",2021,Number of jobs,0,45371,
-CAEMP25N-500,46140,"Tulsa, OK (Metropolitan Statistical Area)",2022,Number of jobs,0,46257,
 CAEMP25N-500,46140,"Tulsa, OK (Metropolitan Statistical Area)",2001,Number of jobs,0,57292,
 CAEMP25N-500,46140,"Tulsa, OK (Metropolitan Statistical Area)",2002,Number of jobs,0,53336,
 CAEMP25N-500,46140,"Tulsa, OK (Metropolitan Statistical Area)",2003,Number of jobs,0,48772,
@@ -7743,6 +7739,10 @@ CAEMP25N-500,46140,"Tulsa, OK (Metropolitan Statistical Area)",2015,Number of jo
 CAEMP25N-500,46140,"Tulsa, OK (Metropolitan Statistical Area)",2016,Number of jobs,0,49121,
 CAEMP25N-500,46140,"Tulsa, OK (Metropolitan Statistical Area)",2017,Number of jobs,0,49072,
 CAEMP25N-500,46140,"Tulsa, OK (Metropolitan Statistical Area)",2018,Number of jobs,0,52390,
+CAEMP25N-500,46140,"Tulsa, OK (Metropolitan Statistical Area)",2019,Number of jobs,0,53074,
+CAEMP25N-500,46140,"Tulsa, OK (Metropolitan Statistical Area)",2020,Number of jobs,0,48544,
+CAEMP25N-500,46140,"Tulsa, OK (Metropolitan Statistical Area)",2021,Number of jobs,0,45371,
+CAEMP25N-500,46140,"Tulsa, OK (Metropolitan Statistical Area)",2022,Number of jobs,0,46257,
 CAEMP25N-500,46220,"Tuscaloosa, AL (Metropolitan Statistical Area)",2001,Number of jobs,0,14939,
 CAEMP25N-500,46220,"Tuscaloosa, AL (Metropolitan Statistical Area)",2002,Number of jobs,0,14282,
 CAEMP25N-500,46220,"Tuscaloosa, AL (Metropolitan Statistical Area)",2003,Number of jobs,0,14004,
@@ -8293,8 +8293,6 @@ CAEMP25N-500,48900,"Wilmington, NC (Metropolitan Statistical Area)",2019,Number 
 CAEMP25N-500,48900,"Wilmington, NC (Metropolitan Statistical Area)",2020,Number of jobs,0,5891,
 CAEMP25N-500,48900,"Wilmington, NC (Metropolitan Statistical Area)",2021,Number of jobs,0,6186,
 CAEMP25N-500,48900,"Wilmington, NC (Metropolitan Statistical Area)",2022,Number of jobs,0,6604,
-CAEMP25N-500,49020,"Winchester, VA-WV (Metropolitan Statistical Area) *",2001,Number of jobs,0,11343,*
-CAEMP25N-500,49020,"Winchester, VA-WV (Metropolitan Statistical Area) *",2002,Number of jobs,0,10890,*
 CAEMP25N-500,49020,"Winchester, VA-WV (Metropolitan Statistical Area) *",2003,Number of jobs,0,10248,*
 CAEMP25N-500,49020,"Winchester, VA-WV (Metropolitan Statistical Area) *",2004,Number of jobs,0,9844,*
 CAEMP25N-500,49020,"Winchester, VA-WV (Metropolitan Statistical Area) *",2005,Number of jobs,0,10176,*
@@ -8315,6 +8313,8 @@ CAEMP25N-500,49020,"Winchester, VA-WV (Metropolitan Statistical Area) *",2019,Nu
 CAEMP25N-500,49020,"Winchester, VA-WV (Metropolitan Statistical Area) *",2020,Number of jobs,0,7745,*
 CAEMP25N-500,49020,"Winchester, VA-WV (Metropolitan Statistical Area) *",2021,Number of jobs,0,8039,*
 CAEMP25N-500,49020,"Winchester, VA-WV (Metropolitan Statistical Area) *",2022,Number of jobs,0,8401,*
+CAEMP25N-500,49020,"Winchester, VA-WV (Metropolitan Statistical Area) *",2001,Number of jobs,0,11343,*
+CAEMP25N-500,49020,"Winchester, VA-WV (Metropolitan Statistical Area) *",2002,Number of jobs,0,10890,*
 CAEMP25N-500,49180,"Winston-Salem, NC (Metropolitan Statistical Area)",2001,Number of jobs,0,56574,
 CAEMP25N-500,49180,"Winston-Salem, NC (Metropolitan Statistical Area)",2002,Number of jobs,0,51861,
 CAEMP25N-500,49180,"Winston-Salem, NC (Metropolitan Statistical Area)",2003,Number of jobs,0,49371,
